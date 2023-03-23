@@ -84,7 +84,7 @@ content:
         sub_title: Database Administrator
         caption: 1 JAN 2023 – 19 APR 2023
         quote: >  
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Administrated database for Compensation system
         description: | # this will include new lines to allow paragraphs
             - Managed database access and permissions.
             - Wrote operating manuals and provided training and support for database use.
@@ -92,18 +92,47 @@ content:
             - Analyzed statistics and data based on customer requirements.
             - Installed a monitoring system(Zabbix).
 
-      - title: FIITX (Financial Investment Income Tax)
+      - title: FIITX
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Database Administrator
         caption: 1 APR 2022 – 31 DEC 2022 
         quote: >  
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Administrated database for Financial Investment Income Tax service
         description: | # this will include new lines to allow paragraphs
             - Designed the tables and columns to fit the business logic.
             - Database monitoring
             - Gained experience in SQL
             - Developed strong communication and organizational skills through working on group projects.
+
+      - title: ICL
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Database Administrator
+        caption: 1 APR 2021 – 31 MAR 2022 
+        quote: >  
+          Administrated database for Income Contingent Loan service
+        description: | # this will include new lines to allow paragraphs
+            - Created naming rules for objects such as tablespaces, tables, indexes, and so on
+            - Built databases and table structures for web applications
+            - Wrote and maintained technical and functional specifications to document database intentions and requirements
+            - Data migration with the ETL (extract, transform, load) department
+            - Created shell scripts to manage the database automatically
+            - Utilized RDBMS tools and utilities to monitor, tune and optimize system performance
+            - SQL Performance Tuning
+
+      - title: TASIS
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Full-Stack Developer
+        caption: 1 APR 2020 – 31 JAN 2021
+        quote: >  
+          Developed Tax Statistics Information Service
+        description: | # this will include new lines to allow paragraphs
+            - Developed web service through HTML5, Javascript, Java, Spring Framework, DB2.
+            - Made a commitment to customer needs and applied them to the system accurately.
+            - Met the tight deadlines successfully in a fast-paced working environment.
+            - Identified issues, analyzed information, and provided solutions to problems
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
