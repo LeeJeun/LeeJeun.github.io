@@ -46,7 +46,7 @@ linkedin_username: jieunlee8789
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jieun and I'm a junior software engineer.<br>
   I administrated Oracle database for 3 years. Especially, I love tuning slow SQL.<br>
@@ -91,6 +91,19 @@ content:
             - Improved website retrieval speed to within 3 seconds.
             - Analyzed statistics and data based on customer requirements.
             - Installed a monitoring system(Zabbix).
+        
+        title: FIITX (Financial Investment Income Tax)
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Database Administrator
+        caption: 1 APR 2022 – 31 DEC 2022 
+        quote: >  
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            - Designed the tables and columns to fit the business logic.
+            - Database monitoring
+            - Gained experience in SQL
+            - Developed strong communication and organizational skills through working on group projects.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
