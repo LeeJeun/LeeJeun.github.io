@@ -91,10 +91,8 @@ content:
             - Improved website retrieval speed to within 3 seconds.
             - Analyzed statistics and data based on customer requirements.
             - Installed a monitoring system(Zabbix).
-            
-    content:
-      - layout: left
-        title: FIITX (Financial Investment Income Tax)
+
+      - title: FIITX (Financial Investment Income Tax)
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Database Administrator
