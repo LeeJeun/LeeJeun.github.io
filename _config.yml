@@ -1,5 +1,5 @@
 # Site
-repository: LeeJeun/resume-theme
+repository: LeeJeun
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: Jieun Lee
 title: Software Engineer
 email: rich.jieunlee@gmail.com
-website: www.github.com/LeeJeun/resume-theme
+website: https://github.com/LeeJeun/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -30,10 +30,10 @@ linkedin_username: jieunlee8789
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,10 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jieun and I'm a junior software engineer. 
-  I administrated Oracle database for 3 years. Especially, I love tuning slow SQL.
-  I also have experience making software and web application through HTML5, Javascipt, Java, Spring Framework, DB2.
-  Thesedays, I have been studying ES6, TypeScript, React, Node.js to change my DBA career to front-end developer.
+  Hi, my name's Jieun and I'm a junior software engineer.<br>
+  I administrated Oracle database for 3 years. Especially, I love tuning slow SQL.<br>
+  I also have experience making software and web application through HTML5, Javascipt, Java, Spring Framework, DB2.<br>
+  Thesedays, I have been studying ES6, TypeScript, React, Node.js to change my DBA career to front-end developer.<br>
   I am most skilled in: <mark>Oracle</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -83,7 +83,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Database Administrator
         caption: 1 JAN 2023 – 19 APR 2023
-        quote: >
+        quote: >  
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             - Managed database access and permissions.
